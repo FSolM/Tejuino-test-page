@@ -1,6 +1,6 @@
 /* ------------------------------- */
 /* Reset Properties */
-@import url(/home/eapen/Microverse/Using-Framework/assets/css/tejuino/reset.css);
+@import url(assets/css/tejuino/reset.css);
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
