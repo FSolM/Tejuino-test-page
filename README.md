@@ -2,7 +2,8 @@
 ### HTML Mock Up page using our custom framework Tejuino
 #### Project 8
 <b>Clone:</b> http://ruvenpelka.com/demos/desmond-resume/dark/<br>
-<b>Live Page:</b> https://eapenzacharias.github.io/Using-Framework/ <br>
+<b>Live Page:</b> https://fsolm.github.io/Tejuino-test-page/ <br>
+
 ## Framework
 #### <a href="https://github.com/FSolM/Tejuino">Tejuino</a>
 
