@@ -1,12 +1,17 @@
 # Custom Framework implementation
-### HTML Mock Up page using our custom framework Tejuino
+### Clone page using Tejuino, a own made CSS Framework
 #### Project 8
-<b>Clone:</b> http://ruvenpelka.com/demos/desmond-resume/dark/<br>
-<b>Live Page:</b> https://fsolm.github.io/Tejuino-test-page/ <br>
 
-## Framework
-#### <a href="https://github.com/FSolM/Tejuino">Tejuino</a>
+**Clone:** http://ruvenpelka.com/demos/desmond-resume/dark/<br>
+**Live Page:** https://fsolm.github.io/Tejuino-test-page/ <br>
+
+## Usage & Installation
+
+Every necessary file is in the root directory<br>
+
+**Framework's Repo: [Tejuino](https://github.com/FSolM/Tejuino)**
 
 #### Created by:
-Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
-Eapen Zacharias: <a href="https://github.com/eapenzacharias">@eapenzacharias</a>
+
+Carlos Sol: [@FSolM](https://github.com/FSolM)<br>
+Eapen Zacharias: [@eapenzacharias](https://github.com/eapenzacharias)
